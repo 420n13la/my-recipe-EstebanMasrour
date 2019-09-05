@@ -1,0 +1,62 @@
+<style>
+
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+
+body {
+  
+}
+
+a{
+  background-color: aliceblue;
+}
+
+div {
+	background-color: lightblue;
+	width: 50%;
+}
+
+span{
+  background-color: gold;
+}
+
+img {
+  border: 5px dashed gold;
+  background-color: red;
+}
+
+b {
+  background-color: red;
+}
+
+ol {
+  display: inline;
+}
+
+li {
+  width: 50%
+}
+
+h1 {
+  background-color: cyan;
+  color: blue;
+  width: 40%;
+  text-align: center;
+  font-family: 'Manjari', sans-serif;
+  border: 5px dotted blue;
+}
+
+h2 {
+  color: blue;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+  width: 50%;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+</style>
